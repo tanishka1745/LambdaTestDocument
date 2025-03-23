@@ -54,6 +54,22 @@ The scope of this project includes the development of a Configuration Management
 3. As a Development Manager, I want to ensure the system integrates smoothly with the Test Manager to automate test executions.
 4. As a Development Manager, I want to define user roles and permissions to control access to configuration management features.
 
+   ### Test Engineer
+1. As a Test Engineer, I want to quickly select configurations for test runs to streamline my testing process.
+2. As a Test Engineer, I want to clone existing configurations to create new ones with minimal effort.
+3. As a Test Engineer, I want to validate configurations to ensure they meet the required parameters for testing.
+4. As a Test Engineer, I want to search configurations by device name or OS version to find specific setups quickly.
+5. As a Test Engineer, I want to mark configurations as favorites for easy access to frequently used setups.
+6. As a Test Engineer, I want to compare configurations to identify differences between test environments.
+
+### System Administrator
+1. As a System Administrator, I want to manage user roles and permissions to ensure secure access to the system.
+2. As a System Administrator, I want to audit configuration changes to maintain a record of updates and edits.
+3. As a System Administrator, I want to back up configuration data to prevent data loss.
+4. As a System Administrator, I want to restore configurations from backups in case of accidental deletions.
+5. As a System Administrator, I want to monitor system performance to ensure the configuration management system runs smoothly.
+6. As a System Administrator, I want to integrate the configuration management system with other tools to streamline workflows.
+
 ## Challenges
 - Handling a large number of configurations efficiently.
 - Ensuring smooth integration with the Test Manager.
